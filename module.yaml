@@ -1,0 +1,6 @@
+version: 0.0.1
+displayName: Content Boostrap Utility
+dependencies:
+  core:
+    version: 6.2/*
+  content-importer:
