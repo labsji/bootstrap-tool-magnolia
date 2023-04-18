@@ -30,9 +30,6 @@ subApps:
                                     - name: dam
                                       label: dam
                                       value: dam
-                                    - name: unsplash
-                                      label: unsplash
-                                      value: unsplash
                                     - name: scripts
                                       label: scripts
                                       value: scripts
@@ -57,7 +54,7 @@ subApps:
                      defaultValue: superuser
                      $type: hiddenField 
                   status: 
-                     defaultValue: 'info.magnolia.task.Task$Status:InProgress'
+                     defaultValue: 'info.magnolia.task.Task$Status:Created'
                      $type: hiddenField 
                   failure: 
                      $type: hiddenField 

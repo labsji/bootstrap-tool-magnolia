@@ -3,7 +3,15 @@
 [Content bootstrap tool]
 
 ## Features
-[A simple app that helps content boostrap via the tasks app.]
+[A simple app that helps content boostrap via the tasks app.
+During magnolia light development or while inducting a light module, you might want to bootstrap content associated with the module manually.
+While, Jcr-tools app is the most appropriate for the job, if you wish content import be done in a (manual) workflow, then Bootstrap-tool is better suited for content import.
+
+Bootstrap-tool app simply creates a content-import task taking the absolute filesystem path of the content file to be imported along with the workspace where the content is destained.
+
+You can open the Tasks app, assign the content import task to the appropriate role/user. And effect the actual content import.
+
+]
 
 
 ## Usage
