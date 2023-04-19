@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-tool-magnolia",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An utility to simplify Content boostrap in Magnolia Light Modules",
   "repository": {
     "type": "git",
@@ -12,7 +12,7 @@
     "magnolia-content-app",
     "magnolia-contentType",
     "magnolia--content-boostrap-manual-import-via-tasks-app",
-    "magnolia-task-import-content-boostrap",
+    "magnolia-task-import-content-boostrap"
   ],
   "contributors": [
     "Magnolia (https://magnolia-cms.com/)",
