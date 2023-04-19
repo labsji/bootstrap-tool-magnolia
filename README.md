@@ -11,6 +11,14 @@ Bootstrap-tool app simply creates a content-import task taking the absolute file
 
 You can open the Tasks app, assign the content import task to the appropriate role/user. And effect the actual content import.
 
+Note:
+Unlike Maven module, light module content bootstrap is non-obvious.
+Bootstrapping via human task is a (less annoying) option.
+
+The bootstrap tool is also an example of creating Tasks using content App.
+The tool simply creates entries in the Tasks workspace in the format undershtood by the Tasks app.
+Thus there is no need for doing workflow with BPM module. ( The Magnolia documentation mentions this in passing - here is concrete instance of using Workflow without using the BPM module.)
+
 ]
 
 
